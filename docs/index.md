@@ -6,4 +6,4 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 
 ## Curso 2024-2025
 
-* Apuntes del módulo
+* Apuntes del módulo ...
