@@ -18,3 +18,8 @@ theme:
         name: Switch to light mode
 nav:
   - Página principal: index.md
+
+copyright: "2024 José María Pérez Puentes - Licencia CC BY-NC-SA"
+
+extra:
+  generator: true
