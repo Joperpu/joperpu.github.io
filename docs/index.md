@@ -6,5 +6,5 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 
 ## Curso 2024-2025
 
-* [Apuntes del módulo Programación de procesos y servicios](https://joperpu.github.io/psp2425/) del 2º curso de Desarrollo de Aplicaciones Multiplataforma.
+* [Apuntes del módulo Programación de servicios y procesos](https://joperpu.github.io/psp2425/) del 2º curso de Desarrollo de Aplicaciones Multiplataforma.
 * [Apuntes del módulo Planificación y administración de redes](https://joperpu.github.io/par2425/) del 1er curso de Administración de Sistemas Informáticos en Red.

@@ -3,6 +3,7 @@ site_url: https://joperpu.github.io/
 theme:
   name: material
   language: es
+  favicon: assets/images/logo.ico
   palette: 
     - scheme: default
       primary: deep purple
@@ -16,6 +17,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+  logo: "assets/images/logo.png"
+
 nav:
   - Página principal: index.md
 
