@@ -6,7 +6,17 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 
 ## Curso 2024-2025
 
+### Tutoría
+
 * [Horario del curso de 2º DAM](assets/files/horario.pdf).
-    * [Formulario recogida de datos tutoría](https://forms.gle/bDMAQNrT4D1tQLE87).
+* [Formulario de recogida de datos de la tutoría](https://forms.gle/bDMAQNrT4D1tQLE87).
+
+### Docencia
+
+* [Presentación del módulo de Lenguajes de marcas y sistemas de gestión de información](assets/files/Presentación_LMSGI_DAW.pdf) del 1er curso de Desarrollo de Aplicaciones Web.
+    * [Evaluación inicial](https://forms.gle/ZRAfA63HXZiS7cCU6).
+    <!-- * [Apuntes Unidad 1](assets/files/UD1.pdf). -->
+* [Presentación del módulo de Lenguajes de marcas y sistemas de gestión de información](assets/files/Presentación_LMSGI_ASIR.pdf) del 1er cruso de Administración de Sistemas Informáticos en Red.
+    * [Evaluación inicial](https://forms.gle/ZRAfA63HXZiS7cCU6).
 * [Apuntes del módulo Planificación y administración de redes](https://joperpu.github.io/par2425/) del 1er curso de Administración de Sistemas Informáticos en Red.
 * [Apuntes del módulo Programación de servicios y procesos](https://joperpu.github.io/psp2425/) del 2º curso de Desarrollo de Aplicaciones Multiplataforma.
