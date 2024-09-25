@@ -10,6 +10,7 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 
 * [Horario del curso de 2º DAM](assets/files/horario.pdf).
 * [Formulario de recogida de datos de la tutoría](https://forms.gle/bDMAQNrT4D1tQLE87).
+* [Convocatoria Erasmus+ para el curso 24/25](assets/files/ConvocatoriaErasmusCFGS24-25.pdf).
 
 ### Docencia
 
