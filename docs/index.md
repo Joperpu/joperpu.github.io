@@ -12,6 +12,7 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 * [Formulario de recogida de datos de la tutoría](https://forms.gle/bDMAQNrT4D1tQLE87).
 * [Convocatoria Erasmus+ para el curso 24/25](assets/files/ConvocatoriaErasmusCFGS24-25.pdf).
 * [Elección de delegado](assets/files/eleccion_delegado.pdf).
+* [Encuesta de recogida de datos de cara a la FCT de marzo](https://docs.google.com/forms/d/e/1FAIpQLSe3DHQvwAEGszSN_Erqk4lBiNg2Vvoy_2S1YTZz70JZUTkLTQ/viewform).
 
 ### Docencia
 
