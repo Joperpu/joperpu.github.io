@@ -1,8 +1,12 @@
 # Bienvenido a mi página web
 
-Mi nombre es José María Pérez Puentes y soy profesor de informática en el IES Gran Capitán de Córdoba.
+Mi nombre es José María Pérez Puentes y soy profesor de informática en el IES Fidiana de Córdoba (anteriormente en el IES Trassierra e IES Gran Capitán, entre otros).
 
 En esta web podrás encontrar los apuntes de algunos de los módulos profesionales que imparto. Intentaré cada curso ir incorporando nuevos módulos. Todos los materiales se encuentran bajo la licencia CC BY-NC-SA 4.0. 
+
+## Curso 2025-2026
+
+_Próximamente_
 
 ## Curso 2024-2025
 
