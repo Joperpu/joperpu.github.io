@@ -6,11 +6,24 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 
 ## Curso 2025-2026
 
-_Próximamente_
-
-## Curso 2024-2025
-
 ### Tutoría
+
+* [Horario del curso de 2º SMR A]("#").
+* [Formulario de recogida de datos de la tutoría](https://forms.gle/yAybT18MVhaVs8PB7).
+
+### Docencia
+
+* [Apuntes del módulo Redes locales](https://joperpu.github.io/rl2526) del 1er curso de Sistemas Microinformáticos y redes.
+* [Apuntes del módulo Sistemas operativos monopuesto](https://joperpu.github.io/som2526) del 1er curso de Sistemas Microinformáticos y redes.
+<!-- * [Apuntes del módulo Seguridad informática]("#") del 2º curso de Sistemas Microinformáticos y redes. -->
+* [Apuntes del módulo Proyecto intermodular](https://joperpu.github.io/pi2526) del 2º curso de Sistemas Microinformáticos y redes.
+
+
+## Cursos anteriores
+
+### Curso 2024-2025
+
+#### Tutoría
 
 * [Horario del curso de 2º DAM](assets/files/horario.pdf).
 * [Formulario de recogida de datos de la tutoría](https://forms.gle/bDMAQNrT4D1tQLE87).
@@ -18,7 +31,7 @@ _Próximamente_
 * [Elección de delegado](assets/files/eleccion_delegado.pdf).
 * [Encuesta de recogida de datos de cara a la FCT de marzo](https://docs.google.com/forms/d/e/1FAIpQLSe3DHQvwAEGszSN_Erqk4lBiNg2Vvoy_2S1YTZz70JZUTkLTQ/viewform).
 
-### Docencia
+#### Docencia
 
 * [Apuntes del módulo Planificación y administración de redes](https://joperpu.github.io/par2425/) del 1er curso de Administración de Sistemas Informáticos en Red.
 * [Apuntes del módulo Programación de servicios y procesos](https://joperpu.github.io/psp2425/) del 2º curso de Desarrollo de Aplicaciones Multiplataforma.
