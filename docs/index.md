@@ -8,16 +8,20 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 
 ### Tutoría
 
-* [Horario del curso de 2º SMR A]("#").
+* [Normas del IES Fidiana para el curso 2025/2026](assets/files/normas_fidiana.pdf).
+* [Plano del centro](assets/files/plano25-25.pdf).
+* [Horario del curso de 2º SMR A](assets/files/horario2smr25-26.pdf).
+* [Canal de Telegram para notificaciones](assets/images/telegram.png).
 * [Formulario de recogida de datos de la tutoría](https://forms.gle/yAybT18MVhaVs8PB7).
 
 ### Docencia
 
-* [Apuntes del módulo Redes locales](https://joperpu.github.io/rl2526) del 1er curso de Sistemas Microinformáticos y redes.
-* [Apuntes del módulo Sistemas operativos monopuesto](https://joperpu.github.io/som2526) del 1er curso de Sistemas Microinformáticos y redes.
+<!-- * [Apuntes del módulo Redes locales](https://joperpu.github.io/rl2526) del 1er curso de Sistemas Microinformáticos y redes. -->
+<!-- * [Apuntes del módulo Sistemas operativos monopuesto](https://joperpu.github.io/som2526) del 1er curso de Sistemas Microinformáticos y redes. -->
 <!-- * [Apuntes del módulo Seguridad informática]("#") del 2º curso de Sistemas Microinformáticos y redes. -->
-* [Apuntes del módulo Proyecto intermodular](https://joperpu.github.io/pi2526) del 2º curso de Sistemas Microinformáticos y redes.
+<!-- * [Apuntes del módulo Proyecto intermodular](https://joperpu.github.io/pi2526) del 2º curso de Sistemas Microinformáticos y redes.-->
 
+---
 
 ## Cursos anteriores
 
