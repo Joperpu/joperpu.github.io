@@ -20,6 +20,12 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 <!-- * [Apuntes del módulo Sistemas operativos monopuesto](https://joperpu.github.io/som2526) del 1er curso de Sistemas Microinformáticos y redes. -->
 <!-- * [Apuntes del módulo Proyecto intermodular](https://joperpu.github.io/pi2526) del 2º curso de Sistemas Microinformáticos y redes.-->
 
+##### Seguridad informática (temporal)
+
+- [Presentación del módulo](assets/files/si/presentacion.pdf).
+- [Evaluación inicial](https://forms.gle/jg3SQ6zt7XHZfMEU8).
+- [Introducción a la ciberseguridad](assets/files/si/introduccion.pdf)
+
 ---
 
 ## Cursos anteriores
