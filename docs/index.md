@@ -12,6 +12,7 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 * [Plano del centro](assets/files/plano25-25.pdf).
 * [Horario del curso de 2º SMR A](assets/files/horario2smr25-26.pdf).
 * [Canal de Telegram para notificaciones](assets/images/telegram.png).
+    - [Enlace canal de Telegram](https://t.me/+pokLIsir4OUxYmFk).
 * [Formulario de recogida de datos de la tutoría](https://forms.gle/yAybT18MVhaVs8PB7).
 
 ### Docencia
