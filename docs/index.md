@@ -19,7 +19,7 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 
 * [Apuntes del módulo Redes locales](https://joperpu.github.io/rl2526) del 1er curso de Sistemas Microinformáticos y redes.
 * [Apuntes del módulo Sistemas operativos monopuesto](https://joperpu.github.io/som2526) del 1er curso de Sistemas Microinformáticos y redes.
-<!-- * [Apuntes del módulo Proyecto intermodular](https://joperpu.github.io/pi2526) del 2º curso de Sistemas Microinformáticos y redes.-->
+* [Apuntes del módulo Proyecto intermodular](https://joperpu.github.io/pi2526) del 2º curso de Sistemas Microinformáticos y redes.
 
 <!-- ##### Seguridad informática (temporal)
 
