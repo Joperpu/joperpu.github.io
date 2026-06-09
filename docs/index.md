@@ -6,6 +6,10 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 
 ## Curso 2025-2026
 
+### Optativa 1º Bachillerato
+
+* [Creación digital y Pensamiento Computacional](assets/files/CDyPC_Presentacion_Alumnado.pdf)
+
 ### Tutoría
 
 * [Normas del IES Fidiana para el curso 2025/2026](assets/files/normas_fidiana.pdf).
