@@ -18,7 +18,7 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 
 * [Apuntes del módulo Redes locales](https://joperpu.github.io/rl2627) del 1er curso de Sistemas Microinformáticos y redes.
 * [Apuntes del módulo Proyecto intermodular](https://joperpu.github.io/pi2627) del 2º curso de Sistemas Microinformáticos y redes.
-* [Apuntes de la asignatura Creación digital y pensamiento computacional]() de 1º de Bachillerato.
+* [Apuntes de la asignatura Creación digital y pensamiento computacional](https://joperpu.github.io/cdpc2627) de 1º de Bachillerato.
 
 ## Curso 2025-2026
 
