@@ -2,13 +2,25 @@
 
 Mi nombre es José María Pérez Puentes y soy profesor de informática en el IES Fidiana de Córdoba (anteriormente en el IES Trassierra e IES Gran Capitán, entre otros).
 
-En esta web podrás encontrar los apuntes de algunos de los módulos profesionales que imparto. Intentaré cada curso ir incorporando nuevos módulos. Todos los materiales se encuentran bajo la licencia CC BY-NC-SA 4.0. 
+En esta web podrás encontrar los apuntes de algunos de los módulos profesionales que imparto. Intentaré cada curso ir incorporando nuevos módulos. Todos los materiales se encuentran bajo la licencia CC BY-NC-SA 4.0.
+
+## Curso 2026 - 2027
+
+### Tutoría
+
+* [Normas del IES Fidiana para el curso 2026/2027](assets/files/normas_fidiana.pdf).
+* [Plano del centro](assets/files/plano26-27.pdf).
+* [Horario del grupo 1º SMR A]().
+* [Canal de Telegram para notificaciones]().
+* [Formulario de recogida de datos de la tutoría]().
+
+### Docencia
+
+* [Apuntes del módulo Redes locales](https://joperpu.github.io/rl2627) del 1er curso de Sistemas Microinformáticos y redes.
+* [Apuntes del módulo Proyecto intermodular]() del 2º curso de Sistemas Microinformáticos y redes.
+* [Apuntes de la asignatura Creación digital y pensamiento computacional]() de 1º de Bachillerato.
 
 ## Curso 2025-2026
-
-### Optativa 1º Bachillerato
-
-* [Creación digital y Pensamiento Computacional](assets/files/CDyPC_Presentacion_Alumnado.pdf)
 
 ### Tutoría
 
@@ -23,7 +35,6 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 
 * [Apuntes del módulo Redes locales](https://joperpu.github.io/rl2526) del 1er curso de Sistemas Microinformáticos y redes.
 * [Apuntes del módulo Sistemas operativos monopuesto](https://joperpu.github.io/som2526) del 1er curso de Sistemas Microinformáticos y redes.
-* [Apuntes del módulo Proyecto intermodular](https://joperpu.github.io/pi2526) del 2º curso de Sistemas Microinformáticos y redes.
 
 <!-- ##### Seguridad informática (temporal)
 
