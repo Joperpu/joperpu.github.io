@@ -10,9 +10,9 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 
 * [Normas del IES Fidiana para el curso 2026/2027](assets/files/normas_fidiana.pdf).
 * [Plano del centro](assets/files/plano26-27.pdf).
-* [Horario del grupo 1º SMR A]().
-* [Canal de Telegram para notificaciones]().
-* [Formulario de recogida de datos de la tutoría]().
+* [Horario del grupo 1º SMR A](assets/files/horario1smra26-27.pdf).
+* [Canal de Telegram para notificaciones](https://t.me/+_NcVFr8cdC5jYjBk).
+* [Formulario de recogida de datos de la tutoría](https://forms.gle/AM462FWqeoMdMYCx9).
 
 ### Docencia
 
