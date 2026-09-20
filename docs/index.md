@@ -20,9 +20,13 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 * [Apuntes del módulo Proyecto intermodular](https://joperpu.github.io/pi2627) del 2º curso de Sistemas Microinformáticos y redes.
 * [Apuntes de la asignatura Creación digital y pensamiento computacional](https://joperpu.github.io/cdpc2627) de 1º de Bachillerato.
 
-## Curso 2025-2026
+---
 
-### Tutoría
+## Cursos anteriores
+
+### Curso 2025-2026
+
+#### Tutoría
 
 * [Normas del IES Fidiana para el curso 2025/2026](assets/files/normas_fidiana.pdf).
 * [Plano del centro](assets/files/plano25-25.pdf).
@@ -31,7 +35,7 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
     - [Enlace canal de Telegram](https://t.me/+pokLIsir4OUxYmFk).
 * [Formulario de recogida de datos de la tutoría](https://forms.gle/yAybT18MVhaVs8PB7).
 
-### Docencia
+#### Docencia
 
 * [Apuntes del módulo Redes locales](https://joperpu.github.io/rl2526) del 1er curso de Sistemas Microinformáticos y redes.
 * [Apuntes del módulo Sistemas operativos monopuesto](https://joperpu.github.io/som2526) del 1er curso de Sistemas Microinformáticos y redes.
@@ -43,9 +47,6 @@ En esta web podrás encontrar los apuntes de algunos de los módulos profesional
 - [Introducción a la ciberseguridad](assets/files/si/introduccion.pdf)
 
 -->
----
-
-## Cursos anteriores
 
 ### Curso 2024-2025
 
